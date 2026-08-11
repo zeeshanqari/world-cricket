@@ -1,0 +1,26 @@
+What's New
+
+AndroLua+ Code Editor - Version 1.1 Summary
+
+Run Code Integration: Execute your Lua scripts directly from the editor. Includes automated Syntax and Runtime Error handling that displays detailed error messages instead of crashing.
+
+New File Creator: Generate fresh files with custom names and extensions. The app automatically parses pasted code into an editable, line-by-line structure.
+
+Advanced Function Block Editor:
+
+Auto-Format: One-tap intelligent alignment and indentation for professional code readability.
+
+Undo/Redo: Full change-history tracking for edits made within function blocks.
+
+Smart Paste: Automatically splits pasted code into lines and applies formatting.
+
+Clear with Confirmation: A safety prompt added to the 'Clear' function to prevent accidental data loss.
+
+Copy All Lines: Export entire function blocks to the clipboard with a single tap.
+
+Advanced File History Management:
+
+Edit File: New options in the history menu to either 'Replace Code' (overwrite existing files with new content) or 'Rename' files.
+
+Optimized Navigation: Fixed the execution flow, ensuring that users return instantly to the editor interface after running scripts.
+
